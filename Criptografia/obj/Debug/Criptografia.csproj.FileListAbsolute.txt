@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\User\Desktop\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\User\Desktop\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\User\Desktop\Criptografia\Criptografia\obj\Debug\Criptografia.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Criptografia\Criptografia\obj\Debug\Criptografia.Form1.resources
+C:\Users\User\Desktop\Criptografia\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+C:\Users\User\Desktop\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\User\Desktop\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
